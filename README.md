@@ -9,6 +9,6 @@ The repository includes:
 
   _Simulating strong chimeras in two-cluster networks and their quotient networks._
 
-2. 'optoelectronic.jl'
+2. `optoelectronic.jl`
 
   _Simulating strong chimeras in small ring networks of optoelectronic oscillators._
